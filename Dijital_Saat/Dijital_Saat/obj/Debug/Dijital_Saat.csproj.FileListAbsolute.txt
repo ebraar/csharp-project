@@ -1,0 +1,11 @@
+C:\Users\EBRAR\OneDrive\Masaüstü\udemy projeler\Dijital_Saat\Dijital_Saat\bin\Debug\Dijital_Saat.exe.config
+C:\Users\EBRAR\OneDrive\Masaüstü\udemy projeler\Dijital_Saat\Dijital_Saat\bin\Debug\Dijital_Saat.exe
+C:\Users\EBRAR\OneDrive\Masaüstü\udemy projeler\Dijital_Saat\Dijital_Saat\bin\Debug\Dijital_Saat.pdb
+C:\Users\EBRAR\OneDrive\Masaüstü\udemy projeler\Dijital_Saat\Dijital_Saat\obj\Debug\Dijital_Saat.csproj.AssemblyReference.cache
+C:\Users\EBRAR\OneDrive\Masaüstü\udemy projeler\Dijital_Saat\Dijital_Saat\obj\Debug\Dijital_Saat.csproj.SuggestedBindingRedirects.cache
+C:\Users\EBRAR\OneDrive\Masaüstü\udemy projeler\Dijital_Saat\Dijital_Saat\obj\Debug\Dijital_Saat.Form1.resources
+C:\Users\EBRAR\OneDrive\Masaüstü\udemy projeler\Dijital_Saat\Dijital_Saat\obj\Debug\Dijital_Saat.Properties.Resources.resources
+C:\Users\EBRAR\OneDrive\Masaüstü\udemy projeler\Dijital_Saat\Dijital_Saat\obj\Debug\Dijital_Saat.csproj.GenerateResource.cache
+C:\Users\EBRAR\OneDrive\Masaüstü\udemy projeler\Dijital_Saat\Dijital_Saat\obj\Debug\Dijital_Saat.csproj.CoreCompileInputs.cache
+C:\Users\EBRAR\OneDrive\Masaüstü\udemy projeler\Dijital_Saat\Dijital_Saat\obj\Debug\Dijital_Saat.exe
+C:\Users\EBRAR\OneDrive\Masaüstü\udemy projeler\Dijital_Saat\Dijital_Saat\obj\Debug\Dijital_Saat.pdb
